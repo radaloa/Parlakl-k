@@ -1,0 +1,31 @@
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.dll.config
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\GoruntuIsleme.exe.config
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\GoruntuIsleme.exe
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\GoruntuIsleme.pdb
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.dll
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Imaging.dll
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Math.Core.dll
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Math.dll
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Statistics.dll
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.xml
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Imaging.xml
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Math.xml
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Math.Core.xml
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\bin\Release\Accord.Statistics.xml
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form1.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Invert.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form11.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form2.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form3.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form4.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form5.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Luma.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form7.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Form8.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Histogram.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.Properties.Resources.resources
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\Görüntü İşleme.csproj.GenerateResource.cache
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\Görüntü İşleme.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\Görüntü İşleme.csproj.CopyComplete
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.exe
+C:\Users\ramaz\Desktop\Ramazan Görüntü İşleme\GoruntuIsleme\obj\Release\GoruntuIsleme.pdb

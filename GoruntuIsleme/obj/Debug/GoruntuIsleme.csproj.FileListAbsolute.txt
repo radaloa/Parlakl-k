@@ -1,0 +1,89 @@
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojAssemblyReference.cache
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form3.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form4.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form5.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.dll.config
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.dll
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Imaging.dll
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Math.Core.dll
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Math.dll
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Statistics.dll
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.xml
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Imaging.xml
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Math.xml
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Math.Core.xml
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\Accord.Statistics.xml
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CopyComplete
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form6.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form7.resources
+C:\Users\ramaz\Desktop\Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form8.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.dll
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Imaging.dll
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Math.Core.dll
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Math.dll
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Statistics.dll
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.xml
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Imaging.xml
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Math.xml
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Math.Core.xml
+C:\Users\ramaz\Desktop\GoruntuIsleme\bin\Debug\Accord.Statistics.xml
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojAssemblyReference.cache
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form3.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form4.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form5.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form6.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form7.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form8.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CopyComplete
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.dll.config
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.dll
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Imaging.dll
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Math.Core.dll
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Math.dll
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Statistics.dll
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.xml
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Imaging.xml
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Math.xml
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Math.Core.xml
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\bin\Debug\Accord.Statistics.xml
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojAssemblyReference.cache
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form3.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form4.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form5.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form6.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form7.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form8.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CopyComplete
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form9.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form10.resources
+C:\Users\ramaz\Documents\GitHub\Goruntu-Isleme-1.Odev\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form11.resources
